@@ -75,3 +75,5 @@ Generated documentation for cli.
 # Touch update: 1760849408
 
 # PR Merge: 2025-10-19 - enhancement/merge-6698
+
+# PR Update: 2025-10-19 - docs/update-3189
