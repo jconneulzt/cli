@@ -155,3 +155,5 @@ Backup-File "${BaseDir}\${FileName}"
 # PR Merge: 2025-10-19 - enhancement/merge-8915
 
 # PR Merge: 2025-10-19 - feature/merge-1132
+
+# PR Merge: 2025-10-19 - docs/merge-7404
